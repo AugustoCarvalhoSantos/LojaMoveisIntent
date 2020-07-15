@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LojaMoveis</string>
+    <string name="txtFuncio">Cadastrar Novo Funcionário</string>
+    <string name="txtname">Nome</string>
+    <string name="txtNomeFun">Nome</string>
+    <string name="txtemeio">Email</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtdata">Data de Admissão</string>
+    <string name="btnConclu">CONCLUIR</string>
+    <string name="dtDat">Data</string>
 </resources>
